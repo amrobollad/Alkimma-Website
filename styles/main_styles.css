@@ -64,8 +64,8 @@ body
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	background: #FFFFFF;
-	color: #a5a5a5;
+	background: #F8F8F8;
+	color: #ffffff;
 }
 div
 {
@@ -803,7 +803,7 @@ section
 }
 .svg path
 {
-	fill: #2c9eeb;
+	fill: #ffffff;
 }
 .hero_box svg
 {
@@ -837,7 +837,7 @@ section
 }
 .hero_box_link:hover
 {
-	color: #5592d8;
+	color: #000000;
 }
 
 /*********************************
@@ -951,7 +951,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 500;
-	color: #a5a5a5;
+	color: #202020;
 	margin-top: -12px;
 }
 .price_box
@@ -1199,7 +1199,7 @@ input:last-of-type
 }
 .testimonials .section_title h1
 {
-	color: #FFFFFF;
+	color: #ffffff;
 }
 .testimonials_slider_container
 {
@@ -1214,12 +1214,12 @@ input:last-of-type
 }
 .quote
 {
-	font-size: 36px;
+	font-size: 40px;
 	color: #2c9eeb;
 }
 .testimonials_text
 {
-	color: #FFFFFF;
+	color: #ffffff;
 	margin-bottom: 0px;
 }
 .testimonial_user
@@ -1356,8 +1356,8 @@ input:last-of-type
 .footer
 {
 	width: 100%;
-	padding-top: 86px;
-	background: #1a1a1a;
+	padding-top: 1px;
+	background: #06071d;
 }
 .footer .section_title h1
 {
