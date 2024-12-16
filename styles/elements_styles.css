@@ -51,10 +51,10 @@
 body
 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
-	background: #FFFFFF;
-	color: #a5a5a5;
+	background: #F8F8F8;
+	color: #ffffff;
 }
 div
 {
@@ -72,10 +72,10 @@ ul
 p
 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 2.29;
 	font-weight: 400;
-	color: #a5a5a5;
+	color: #000000;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
@@ -823,7 +823,7 @@ section
 .pb_item h4
 {
 	color: #1a1a1a;
-	font-weight: 400 !important;
+	font-weight: 500 !important;
 	padding-left: 2px;
 	margin-bottom: 13px;
 }
@@ -848,7 +848,7 @@ section
 {
 	height: 60px;
 	width: 100%;
-	background: #f8f4f4;
+	background: #26333b;
 	padding-left: 30px;
 	cursor: pointer;
 	-webkit-transition: all 200ms ease;
@@ -860,7 +860,7 @@ section
 .accordion.active
 {
 	background: #2c9eeb;
-	color: #FFFFFF;
+	color: #000000;
 }
 .accordion:active
 {
@@ -899,7 +899,7 @@ section
 }
 .accordion:hover
 {
-	background: #e4e4e4;
+	background: #82a6c0;
 }
 .accordion_panel
 {
@@ -1063,7 +1063,7 @@ section
 .footer
 {
 	width: 100%;
-	background: #1a1a1a;
+	background: #06071d;
 }
 .footer .section_title h1
 {
