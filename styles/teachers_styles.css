@@ -57,8 +57,8 @@ body
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	background: #FFFFFF;
-	color: #a5a5a5;
+	background: #F8F8F8;
+	color: #ffffff;
 }
 div
 {
@@ -968,7 +968,7 @@ section
 {
 	width: 100%;
 	padding-top: 86px;
-	background: #1a1a1a;
+	background: #06071d;
 }
 .footer .section_title h1
 {
