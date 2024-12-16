@@ -55,8 +55,8 @@ body
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
-	background: #FFFFFF;
-	color: #a5a5a5;
+	background: #F8F8F8;
+	color: #ffffff;
 }
 div
 {
@@ -801,7 +801,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 500;
-	color: #a5a5a5;
+	color: #272727;
 	margin-top: -12px;
 }
 .price_box
@@ -853,8 +853,8 @@ section
 .footer
 {
 	width: 100%;
-	padding-top: 86px;
-	background: #1a1a1a;
+	padding-top: 1px;
+	background: #06071d;
 }
 .footer .section_title h1
 {
