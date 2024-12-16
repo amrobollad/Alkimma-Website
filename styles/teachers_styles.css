@@ -967,7 +967,7 @@ section
 .footer
 {
 	width: 100%;
-	padding-top: 86px;
+	padding-top: 1px;
 	background: #06071d;
 }
 .footer .section_title h1
